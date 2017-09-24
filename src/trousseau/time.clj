@@ -1,4 +1,4 @@
-(ns achesnais.trousseau.time)
+(ns trousseau.time)
 
 (defprotocol ITimeCoercions
   (utc-zoned-date-time [x])
