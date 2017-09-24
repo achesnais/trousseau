@@ -1,6 +1,6 @@
 # Trousseau
 
-`[achesnais/trouseau "0.1.0"]`
+`[achesnais/trouseau "0.1.1"]`
 
 Useful functions.
 
