@@ -1,4 +1,4 @@
-(defproject achesnais/trousseau "0.1.1"
+(defproject achesnais/trousseau "0.1.2"
   :description "Yet another library for commonly used functions."
   :url "https://www.github.com/achesnais/trousseau"
   :license {:name "Eclipse Public License"
