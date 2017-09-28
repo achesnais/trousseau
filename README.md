@@ -61,7 +61,7 @@ All you need to know is:
   (require [trousseau.time :as time]))
 
 (def date-a (time/utc-date-time #inst "2017"))
-(def date-b (time/utc-date-time #inst "2016))
+(def date-b (time/utc-date-time #inst "2016"))
 
 (time/before? date-a date-b) ;;=> false
 (time/minus date-a (time/months 2)) ;;=> #object[java.time.ZonedDateTime 0x147615ea "2016-11-01T00:00Z[UTC]"]
